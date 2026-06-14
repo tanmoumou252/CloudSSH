@@ -92,7 +92,7 @@ flowchart TB
 
 - 一个 Cloudflare 账号。
 - Node.js 环境 (v18+)。
-- 启用 Cloudflare Workers 付费计划（TCP Sockets 和 Durable Objects 功能需要）。
+- 启用 Cloudflare Workers 免费计划（TCP Sockets 和 Durable Objects 功能需要）。
 
 ### 部署步骤
 

@@ -92,7 +92,7 @@ flowchart TB
 
 - A Cloudflare account.
 - Node.js environment (v18+).
-- Cloudflare Workers Paid Plan enabled (required for TCP Sockets and Durable Objects features).
+- Cloudflare Workers Free Plan enabled (required for TCP Sockets and Durable Objects features).
 
 ### Steps
 

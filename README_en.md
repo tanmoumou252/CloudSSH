@@ -102,7 +102,7 @@ flowchart TB
 
 ### Steps
 
-#### Method 1: Deploy via GitHub Integration
+#### Method 1: Deploy via GitHub Integration (Recommended)
 
 1. **Fork this repository** to your GitHub account.
 2. **Configure Domain**: Before deploying, you must modify the custom domain in `wrangler.toml` to your own domain (Note: The domain must be registered or active in Cloudflare beforehand).
